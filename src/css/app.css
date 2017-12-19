@@ -23,7 +23,9 @@ h1 {
     width: 100%;
     height: 200px;
 }
-
+.btnAbout {
+  height: 25px ; 
+}
 .about_popup{
   width: 400px;
   height:160px;
